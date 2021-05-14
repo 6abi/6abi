@@ -9,14 +9,12 @@
 
 - 📊 I am a research student at CNPq [Graph Generation.](https://github.com/6abi/grafos)
 
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white [https://www.linkedin.com/in/barbara-cardoso-b69b5517a/](https://www.linkedin.com/in/barbara-cardoso-b69b5517a/)
-
 - 💬 Ask me about **SQL,Python, Django, JavaScript**
 
 - 📫 How to reach me **6abi.cardoso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barbara-cardoso-b69b5517a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="30" width="80" /></a>
 </p>
 
