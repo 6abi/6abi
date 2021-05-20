@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Itaú Unibanco**
 
-- 👨‍💻 I’m currently learning **Salesforce Developer, Python, Data Science**
+- 👨‍💻 I’m currently learning **Salesforce Developer, Alteryx Designer, Python for Web, Data Science**
 
 - 📚 I’m currently studing [Computer Engineering](https://www.sp.senac.br/graduacao/curso/bacharelado/engenharia-de-computacao)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/barbara-cardoso-b69b5517a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/barbara-cardoso-b69b5517a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
