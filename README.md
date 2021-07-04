@@ -18,7 +18,7 @@
 <a href="https://br.linkedin.com/in/barbara-cardoso-b69b5517a" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="40" width="110" /></a>
 </p>
 
-<h3 align="left">What my latest projetc is ? 👀🙅‍♀️👇</h3>
+<h3 align="left">What is my latest project? ? 👀🙅‍♀️👇</h3>
 <p align="left">
 👉 <a href="https://github.com/6abi/escola_API_django" target="_blank">API para escola com Django REST Framework</a> 👈
 </p>
