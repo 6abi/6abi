@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=6abi&show_icons=true&theme=dark&title_color=2eda0b&text_color=ffffff&bg_color=191853&locale=en" alt="6abi" /></p>
 
-![](https://komarev.com/ghpvc/?username=6abi&color=ffffff&bg_color=181b51&style=plastic)
+![](https://komarev.com/ghpvc/?username=6abi&color=ffffff&bg_color=2eda0b&style=plastic)
