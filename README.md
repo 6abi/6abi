@@ -20,7 +20,7 @@
 
 <h3 align="left">What is my latest project? ? 👀🙅‍♀️👇</h3>
 <p align="left">
-👉 <a href="https://github.com/6abi/django-rest-framework-API-clientes" target="_blank">API de base de clientes Django REST Framework</a> 👈
+👉 <a href="https://github.com/6abi/django-rest-framework-API-Myflix" target="_blank">API de série e filmes com testes básicos dela</a> 👈
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
