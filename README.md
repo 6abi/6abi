@@ -9,7 +9,7 @@
 
 - 📊 I am a research student at CNPq [Graph Generation.](https://github.com/6abi/grafos)
 
-- 💬 Ask me about **SQL,Python, Django, JavaScript**
+- 💬 Ask me about **SQL,Python, Django, Django Rest-framework, JavaScript**
 
 - 📫 How to reach me **6abi.cardoso@gmail.com**
 
