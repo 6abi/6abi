@@ -18,9 +18,12 @@
 <a href="https://br.linkedin.com/in/barbara-cardoso-b69b5517a" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="40" width="110" /></a>
 </p>
 
-<h3 align="left">What is my latest project? ? 👀🙅‍♀️👇</h3>
+<h3 align="left">What are my latest projects?👀🙅‍♀️👇</h3>
 <p align="left">
 👉 <a href="https://github.com/6abi/django-rest-framework-API-Myflix" target="_blank">API de série e filmes com testes básicos dela</a> 👈
+</p>
+<p align="left">
+👉 <a href="https://github.com/6abi/corretor-ortografico-python" target="_blank">Mini Corretor Ortográfico </a> 👈
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
