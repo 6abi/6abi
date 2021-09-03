@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/babi-cardoso/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="40" width="110" /></a>
- <a href="mailto: 6abi@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="40" width="110" /></a>
+ <a href="mailto: 6abi.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin.com/in/barbara-cardoso-b69b5517a" height="40" width="110" /></a>
 </p>
 
 
