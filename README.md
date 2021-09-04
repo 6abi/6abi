@@ -22,7 +22,7 @@
 
 <h3 align="left">What are my latest projects?👀🙅‍♀️👇</h3>
 <p align="left">
-👉 <a href="https://github.com/6abi/django-rest-framework-API-Myflix" target="_blank">API de série e filmes com testes básicos dela</a> 👈
+👉 <a href="https://github.com/6abi/rest-api-djando-quiz" target="_blank">API com Django Rest Framework(DRF) + React JS</a> 👈
 </p>
 <p align="left">
 👉 <a href="https://github.com/6abi/corretor-ortografico-python" target="_blank">Mini Corretor Ortográfico </a> 👈
