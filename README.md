@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left">What are my latest projects?👀🙅‍♀️👇</h3>
+<h3 align="left">What are my latest projects?👀</h3>
 <p align="left">
 👉 <a href="https://github.com/6abi/rest-api-djando-quiz" target="_blank">API com Django Rest Framework(DRF) + React JS</a> 👈
 </p>
