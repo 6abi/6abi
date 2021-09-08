@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Bárbara Cardoso(Babi) 👋</h1>
+<h1 align="center">Hi there, I'm Bárbara Cardoso(Babi) 👋</h1>
 <h3 align="center">A Computer Engineering Student and python Developer.</h3>
 
 - 🔭 I’m currently working at **Itaú Unibanco**
