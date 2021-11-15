@@ -25,7 +25,7 @@
 👉 <a href="https://github.com/6abi/rest-api-djando-quiz" target="_blank">API com Django Rest Framework(DRF) + React JS</a> 👈
 </p>
 <p align="left">
-👉 <a href="https://github.com/6abi/corretor-ortografico-python" target="_blank">Mini Corretor Ortográfico </a> 👈
+👉 <a href="https://github.com/6abi/bootcamp-dados-igti/blob/master/semana03/socket_twitter.ipynb" target="_blank">Análise de sentimento com API do Twitter </a> 👈
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
