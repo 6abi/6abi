@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Itaú Unibanco** as Data Analyst
 
-- 👨‍💻 I’m currently learning **Alteryx Designer (ETL), Python for Data Science, Data Science, Apache Spark**
+- 👨‍💻 I’m currently learning **Alteryx Designer (ETL), Python for Data Science, Data Science, AWS **
 
 - 📚 I’m currently studing [Computer Engineering](https://www.sp.senac.br/graduacao/curso/bacharelado/engenharia-de-computacao)
 
