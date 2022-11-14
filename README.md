@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Bárbara Cardoso(Babi) 👋</h1>
-<h3 align="center">A Computer Engineering Student and python Developer.</h3>
+<h3 align="center">A Computer Engineering Student and Data Lover.</h3>
+<a href=><h3 align="center">Take a look in my portfolio right here ;) </h></a>
 
 - 🔭 I’m currently working at **Itaú Unibanco** as Data Analyst
 
