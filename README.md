@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Bárbara Cardoso(Babi) 👋</h1>
 <h3 align="left">A Computer Engineering Student and Data Lover.</h3>
-<a href="https://www.gitshowcase.com/6abi"><h3 align="left">Take a look in my portfolio right here ;) </h></a>
+<a href="https://www.gitshowcase.com/6abi" target="_blank"><h3 align="left">Take a look in my portfolio right here ;) </h3></a>
 
 - 🔭 I’m currently working at **Itaú Unibanco** as Data Analyst
 
